@@ -1,4 +1,4 @@
-package Inheritance.assignment3;
+package assignment3.inheritance;
 import java.util.Scanner;
 
 public class Bookfair {

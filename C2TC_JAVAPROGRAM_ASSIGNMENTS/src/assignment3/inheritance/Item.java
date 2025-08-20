@@ -1,4 +1,4 @@
-package Inheritance.assignment3;
+package assignment3.inheritance;
 
 	public class Item {
 		int Id;

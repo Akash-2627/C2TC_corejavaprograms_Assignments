@@ -1,4 +1,4 @@
-package Inheritance.assignment3;
+package assignment3.inheritance;
 
 class Book extends Item{
 	String Author;
